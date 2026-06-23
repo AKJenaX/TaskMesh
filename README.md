@@ -62,9 +62,8 @@ When tested against baseline heuristics, the RL-trained TaskMesh agent consisten
 ## 🚀 Experience TaskMesh
 
 ### 🔗 Quick Links (Required for Judges)
-- 🎮 **Hugging Face Space (Live Demo)**: [TaskMesh on HF Spaces](https://huggingface.co/) *(Insert your actual URL before final submission)*
+- 🎮 **Hugging Face Space (Live Demo)**: [TaskMesh on HF Spaces](https://huggingface.co/spaces/irfan319150/TaskMesh) *(Insert your actual URL before final submission)*
 - 📓 **Training Script (Colab / TRL)**: [Run the Training Pipeline](https://colab.research.google.com/) *(Insert your actual URL before final submission)*
-- 🎬 **2-Minute Pitch Video**: [Watch on YouTube](https://youtube.com/) *(Insert your actual URL before final submission)*
 
 ---
 
